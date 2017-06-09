@@ -1,5 +1,7 @@
 # Tornado-Response-Drill
-Data Drill for Urban Informatics fro Smart and Sustainable Cities Class - NYU-CUSP Spring 2017
+Mayor's Office of Data Analytics Data Drill - Emergency response for Brooklyn/Queens 2010 Tornado
+
+For Urban Informatics fro Smart and Sustainable Cities Class - NYU-CUSP Spring 2017
 
 The exercise was create an operational question and use data analytics to approach this question and inform the decision makers in NYC to be awared of the conclusions and help them on the decisions.
 
