@@ -1,4 +1,4 @@
-# Tornado-Response-Drill
+# Brooklyn/Queens 2010 Tornado Emergency Response
 Mayor's Office of Data Analytics Data Drill - Emergency response for Brooklyn/Queens 2010 Tornado
 
 For Urban Informatics fro Smart and Sustainable Cities Class - NYU-CUSP Spring 2017
