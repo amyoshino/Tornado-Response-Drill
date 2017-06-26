@@ -15,7 +15,7 @@ Here is the workflow of the project:
 ![](Workflow.png)
 
 The tornado path is:
-![](Impacted Area.png)
+![]("Impacted Area.png")
 
 And here is the map with census tracts that have more trees with potential to be impacted by the tornado. 
 
