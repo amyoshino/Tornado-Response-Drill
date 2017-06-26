@@ -14,6 +14,10 @@ The question was answered in two ways:
 Here is the workflow of the project:
 ![](Workflow.png)
 
+And here is the map with census tracts that have more trees with potential to be impacted by the tornado. 
+
+![](Trees.png)
+
 The notebooks in this repository aims to find conclusions for both questions mentioned above.
 
 The work was presented in May 8th, 2017
