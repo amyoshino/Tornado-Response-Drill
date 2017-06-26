@@ -11,6 +11,9 @@ The question was answered in two ways:
 - Looking for infrastructure in the Tornado path and calculating the damage exposure taking in consideration importance and sensitivity;
 - For the tornado path, look for the trees that have more potential to generate damage to people, houses and cars. To do that, we filtered the trees that are closer to streets.
 
+Here is the workflow of the project:
+![Workflow.png]
+
 The notebooks in this repository aims to find conclusions for both questions mentioned above.
 
 The work was presented in May 8th, 2017
